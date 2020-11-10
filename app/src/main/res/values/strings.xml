@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mensa</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+    <string name="today_s_special">Today\'s Special</string>
+    <string name="what_s_on_the_menu_for_the_week">What\'s on the menu for the week</string>
+    <string name="for_the_sweet_tooth">For the sweet tooth</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here</string>
+    <string name="enter_your_student_mail">enter your student mail</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_lastname">Enter your lastname</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="nothing_available_to_display">Nothing available to display</string>
+
+    <string-array name="meal_types">
+        <item>Select meal type</item>
+        <item>Soup</item>
+        <item>Prima Clima</item>
+        <item>Gourmat</item>
+        <item>Nice and Cheap</item>
+        <item>Off the grill</item>
+    </string-array>
+</resources>
